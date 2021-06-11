@@ -1,31 +1,31 @@
-## Portfolio
+## Projects
 
 ---
 
-### Category Name 1 
+### Speech Recognition 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Caption_This_Presentation](https://github.com/Rasputin1127/Caption_This_Presentation)
+<img src="images/speech.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Computer Vision
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Predicting_Pneumonia](https://github.com/Rasputin1127/Predicting_Pnuemonia)
+<img src="images/xray.jpeg?raw=true"/>
 
 ---
+
+### Gaming Projects
+
+[StarcraftII_Agent_AI](https://github.com/Rasputin1127/StarcraftII_Agent_AI)
+<img src="images/sc2.png?raw=true"/>
+
+---
+
+[2020_Season_Game_Analytics_LoL](https://github.com/Rasputin1127/2020-Season-Game-Analytics-LoL)
+<img src="images/logo.jpeg?raw=true"/>
+
 
 
 
